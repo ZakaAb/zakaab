@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ZakaAb/zakaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Zaki ABAHRI
+## DevOps Engineer
+
+Hello! I'm a DevOps Engineer with experience in automating and streamlining operations in cloud-based environments. I have a passion for creating scalable and efficient systems, and enjoy the challenges of continuously improving processes.
+
+## Skills
+- Infrastructure as Code (Terraform, Ansible)
+- Continuous Integration/Delivery (Jenkins, Gitlab_ci)
+- Monitoring and Logging (Prometheus, Grafana, Nagios)
+- Kubernetes
+
+## Contact
+- Email: zaka.abahri@gmail.com
